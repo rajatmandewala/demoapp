@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 viki
+=======
+uday
+>>>>>>> cba83402e63428313032c4713f60d2e3a5fbe50a
 adasd
 sdfdfg
 bnvnb
